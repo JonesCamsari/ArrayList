@@ -29,6 +29,8 @@ public class Program {
 	employees.add("Blazer");
 	employees.add("Waisi");
 	
+	
+	// merhaba
 										// Es geht noch weiter aber sind noch zu machen 
 	}
 }    
